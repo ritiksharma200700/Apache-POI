@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="842" started-at="2022-04-13T08:42:10Z" finished-at="2022-04-13T08:42:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="842" started-at="2022-04-13T08:42:10Z" finished-at="2022-04-13T08:42:11Z">
+      <class name="ReadExcelData.ReadData1">
+        <test-method status="PASS" signature="testdata()[pri:0, instance:ReadExcelData.ReadData1@1e397ed7]" name="testdata" duration-ms="821" started-at="2022-04-13T14:12:10Z" finished-at="2022-04-13T14:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+      </class> <!-- ReadExcelData.ReadData1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
